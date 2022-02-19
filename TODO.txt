@@ -1,3 +1,1 @@
-add february data from flightradar
-
-update covid dataset
+find covid prediction that starts from value of last day in train data (26k)
