@@ -1,0 +1,1 @@
+Predicting incoming airline traffic based on number of covid cases using statsmodels
